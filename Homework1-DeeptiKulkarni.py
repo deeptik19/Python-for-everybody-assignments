@@ -2,7 +2,7 @@
 """
 Created on Thu Aug 23 19:50:12 2018
 
-@author: Deepti Kulkarni.
+@author: Deepti Kulkarni
 """
 
 # Chapter 2: Exercise 3: Write a program to prompt the user for hours and rate per hour to compute gross pay.
